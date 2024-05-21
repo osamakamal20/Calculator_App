@@ -1,4 +1,4 @@
-# Neumorphism Calculator
+# Neumorphism Calculator ➕  ➖  ❌ ➗
 A calculator is a versatile electronic device designed to perform arithmetic operations ranging from basic calculations, like addition, subtraction, multiplication, and division, to complex mathematical functions, including trigonometry, logarithms, and statistical analysis
 
 ## Features
